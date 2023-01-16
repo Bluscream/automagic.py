@@ -1,5 +1,5 @@
 # automagic.py
-
+automagic.py is a python 3 library that allows querying running [Automagic HTTP API](http://automagic4android.com/forum/viewtopic.php?f=3&t=6955) servers and working with the returned data (includes Flow XML parsing and re-assembling)
 ## Example usage
 ```py
 from pathlib import Path
